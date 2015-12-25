@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="state_tag_is_creater"/>
+    <item type="id" name="state_tag_is_joined"/>
+    <item type="id" name="state_tag_is_leave"/>
+    <item type="id" name="state_tag_is_canceled"/>
+    <item type="id" name="state_tag_is_end"/>
+    <item type="id" name="pedometer_notification"/>
+</resources>

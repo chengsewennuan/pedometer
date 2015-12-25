@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">计步器</string>
+    <string name="notification_subtitle">步数统计</string>
+
+    <string name="started">开始</string>
+    <string name="stopped">停止</string>
+
+    <string name="steps">步数</string>
+    <string name="kilometers">千米</string>
+    <string name="miles">米</string>
+    <string name="steps_per_minute">步 / 分</string>
+    <string name="kilometers_per_hour">千米 / 小时</string>
+    <string name="miles_per_hour">米 / 小时</string>
+    <string name="calories_burned">卡路里消耗</string>
+    <string name="centimeters">厘米</string>
+    <string name="inches">英寸</string>
+    <string name="kilograms">千克</string>
+    <string name="pounds">磅</string>
+
+    <string name="desired_pace">Desired pace:</string>
+    <string name="desired_speed">Desired speed:</string>
+
+    <string name="pause">暂停</string>
+    <string name="resume">恢复</string>
+    <string name="reset">重新开始</string>
+
+    <!-- Settings -->
+    <string name="settings">设置</string>
+    <string name="activity_settings">计步器设置</string>
+    <string name="steps_settings_title">基础设置</string>
+    <string name="sensitivity_setting">灵敏度</string>
+    <string name="sensitivity_setting_details">计步器灵敏度校准</string>
+    <string name="sensitivity_setting_title">选择灵敏度级别</string>
+    <string name="extra_high">极高</string>
+    <string name="very_high">非常高</string>
+    <string name="high">高</string>
+    <string name="higher">较高</string>
+    <string name="medium">中等</string>
+    <string name="lower">较低</string>
+    <string name="low">低</string>
+    <string name="very_low">非常低</string>
+    <string name="extra_low">极低</string>
+    <string name="operation_level_setting">操作级别</string>
+    <string name="operation_level_setting_details">一些系统版本可能会在屏幕关闭时阻止使用传感器：定义其工作级别</string>
+    <string name="operation_level_setting_title">请选择：</string>
+    <string name="run_in_background">普通的 (仅在后台运行)</string>
+    <string name="keep_screen_on">保持屏幕(保持屏幕)</string>
+    <string name="wake_up">保持唤醒(屏幕关闭时保持)</string>
+    <string name="units_setting">单位</string>
+    <string name="units_setting_details">单位选择</string>
+    <string name="units_setting_title">单位选择</string>
+    <string name="units_metric">米制 (千米)</string>
+    <string name="units_imperial">英制 (英里)</string>
+    <string name="step_length_setting">步长</string>
+    <string name="step_length_setting_details">用于距离、速度、卡路里的计算</string>
+    <string name="step_length_setting_title">请输入步长</string>
+    <string name="body_weight_setting">体重</string>
+    <string name="body_weight_setting_details">用于卡路里计算</string>
+    <string name="body_weight_setting_title">请输入体重</string>
+    <string name="exercise_type_setting">运动类型</string>
+    <string name="exercise_type_setting_details">用户计算卡路里消耗</string>
+    <string name="exercise_type_setting_title">选择运动类型</string>
+    <string name="exercise_type_running">跑步</string>
+    <string name="exercise_type_walking">步行</string>
+    <string name="maintain_setting">平均步长/速度</string>
+    <string name="maintain_setting_details">Maintaining a desired a pace/speed</string>
+    <string name="maintain_setting_title">Maintain:</string>
+    <string name="maintain_nothing">nothing</string>
+    <string name="maintain_pace">pace</string>
+    <string name="maintain_speed">speed</string>
+    <string name="voice_settings_title">语音</string>
+    <string name="voice_setting">语音通知</string>
+    <string name="voice_setting_details">是否启用语音通知</string>
+    <string name="speaking_interval_setting">间隔</string>
+    <string name="speaking_interval_setting_details">语音通知间隔时间</string>
+    <string name="interval_15_seconds">15 秒</string>
+    <string name="interval_30_seconds">30 秒</string>
+    <string name="interval_1_minute">1 分</string>
+    <string name="interval_2_minutes">2 分</string>
+    <string name="interval_5_minutes">5 分</string>
+    <string name="interval_10_minutes">10 分</string>
+    <string name="tell_what">语音内容</string>
+    <string name="tell_steps_setting">步数</string>
+    <string name="tell_steps_setting_details"></string>
+    <string name="tell_pace_setting">频率</string>
+    <string name="tell_pace_setting_details">步 / 分钟</string>
+    <string name="tell_distance_setting">距离</string>
+    <string name="tell_distance_setting_details">千米或米</string>
+    <string name="tell_speed_setting">速度</string>
+    <string name="tell_speed_setting_details">km/h 或 mph</string>
+    <string name="tell_calories_setting">卡路里消耗</string>
+    <string name="tell_calories_setting_details"></string>
+    <string name="tell_fasterslower_setting">快/慢</string>
+    <string name="tell_fasterslower_setting_details">帮助你保持你想要的频率或速度</string>
+    <string name="incorrect_step_length">不正确步长格式！请在设置中修改！</string>
+
+    <string name="quit">退出</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="pedometer_time"><Data><![CDATA[<big><big>%1$s:%2$s:%3$s</big></big><br></br><small>时长</small>]]></Data></string>
+    <string name="pedometer_step"><Data><![CDATA[<big><big><big>%1$d</big></big></big><br></br><small>步</small>]]></Data></string>
+    <string name="pedometer_distance"><Data><![CDATA[<big><big><big>%1$s</big></big></big><br></br><small>距离（米）</small>]]></Data></string>
+    <string name="pedometer_distance_meter"><Data><![CDATA[<big><big><big>%1$s</big></big></big><br></br><small>距离（米）</small>]]></Data></string>
+    <string name="pedometer_distance_kilometer"><Data><![CDATA[<big><big><big>%1$s</big></big></big><br></br><small>距离（公里）</small>]]></Data></string>
+    <string name="pedometer_speed"><Data><![CDATA[<big><big><big>%1$s</big></big></big><br></br><small>速度（米/秒）</small>]]></Data></string>
+    <string name="pedometer_calorie"><Data><![CDATA[<big><big><big>%1$s</big></big></big><br></br><small>热量（卡路里）</small>]]></Data></string>
+    <string name="title_activity_about">关于</string>
+
+</resources>
